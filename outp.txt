@@ -1,0 +1,799 @@
+Certainly! Let's go through the instructions and questions step-by-step.
+
+### Instructions Overview:
+1. **Examination:** ICSE 2023 Exam
+2. **Document:** Specimen Question Paper
+3. **Subject:** Physics
+4. **Document Type:** Science Paper (Paper 1)
+5. **Marks:** Maximum Marks: 80
+6. **Time Allowed:** Two hours
+7. **Warm-up Period:** First 15 minutes exclusively for reading the paper
+8. **Section Information:** 
+   - Section A: Compulsory, attempt any four questions from Section B.
+   - Bracketed marks indicate intended marks for questions/part questions.
+
+### Section A: (Attempt all questions from this Section)
+#### Question 1
+Choose the correct answers to the questions from the given options:
+
+(i) **S.I. unit of moment is:**  
+**Options:**  
+(a) kgf.m    
+(b) Nm    
+(c) gf.m    
+(d) Ncm    
+
+**Correct Answer:**  
+(b) Nm    
+**Explanation:** 
+The S.I. (International System of Units) unit for moment is the Newton meter (Nm). Moment is defined as the product of force and the distance over which that force acts, resulting in the unit of both force and perpendicular distance (Nm). None of the other options are correct in terms of S.I. units. 
+
+This completes the solution to the problem provided. If there are more questions in the document, please specify them for further elaboration and solving.
+
+Here are the answers to all the questions presented in the image:
+
+### Question (i)
+**Which of the following is the correct expression for gain in kinetic energy if initial velocity is not zero?**
+
+(a) \( k = \frac{1}{2}m v^2 \)
+
+Correct Answer: **(a)**
+
+### Question (ii)
+**The energy conversion, when an oscillating pendulum moves from mean to extreme position is:**
+
+(a) Kinetic to potential
+
+Correct Answer: **(a)**
+
+### Question (iii)
+**Which of the following nuclear radiations can be stopped by a sheet of paper?**
+
+(a) Alpha
+
+Correct Answer: **(a)**
+
+### Question (iv)
+**When seven spectral colors pass through a glass block from air, then which one of the following statements is correct.**
+
+(a) In the glass block, speed of blue light > speed of yellow light.
+
+Correct Answer: **(a)**
+
+### Question (v)
+**In the glass block, speed of green light > speed of orange light.**
+
+Correct Answer: **(a)**
+
+### Question (vi)
+**In the glass block, speed of violet light > speed of red light.**
+
+Correct Answer: **(b)**
+
+### Question (vii)
+**In the glass block, speed of orange light > speed of indigo light.**
+
+Correct Answer: **(c)**
+
+Certainly! Let’s go through these questions step by step:
+
+**Question (vi)**
+
+**In which of the following diagrams is the refraction not correct:**
+
+A) Diagram (a): 
+The diagram of a convex lens shows the light rays converging after passing through the lens, which is correct as the light rays converge at a focus point.
+
+B) Diagram (b):
+The diagram of a concave lens shows the light rays diverging as they pass through the lens. However, according to the correct depiction, the light rays should also diverge after passing the concave lens but the way the diagram is shown, light rays passing through the concave lens are converging, which is incorrect.
+
+C) Diagram (c):
+The diagram of a convex lens also shows that light rays converge after passing through it, which is correct as per the principles of lens refraction.
+
+D) Diagram (d):
+The diagram of a concave lens shows light rays diverging after passing through it, which is correct as the rays diverge after passing through the concave lens.
+
+Since only option (b) shows incorrect refraction, the answer is:
+
+**Diagram (b)**
+
+---
+
+**Question (vii)**
+
+**The characteristics of sound which enables to differentiate between two sounds of different intensity is:**
+
+A) Quality: This refers to the tonal quality of a sound, such as its warmth or brightness, not its loudness.
+
+B) Amplitude: While amplitude influences the loudness of a sound, it does not directly allow for the differentiation between two sounds of different intensities.
+
+C) Pitch: This refers to the frequency of a sound, which affects how high or low a note sounds, not its intensity.
+
+D) Loudness: Loudness refers to the perceived intensity of a sound depending on its amplitude, not the ability to differentiate between two different intensities.
+
+However, the aspect that distinguishes between sounds by intensity is **Amplitude**, as it directly relates to the volume or loudness; hence,
+
+The answer is: **Amplitude**
+
+Here are answers to the questions presented in the image:
+
+For question (vii):
+*B.* The ratio of the wavelength of A: wavelength of B is 2:1.
+
+For question (x):
+*(b)* Live: Brown      Neutral: Red      Earth: Blue
+
+Let's explain each step by step.
+
+---
+
+For (vii): 
+From the given graphs:
+- Wavelength of A: 2 units 
+- Wavelength of B: 1 unit 
+Thus the ratio of wavelength of A to wavelength of B is 2:1.
+
+---
+
+For (x):
+**Option 1:**
+Live: Green
+Neutral: Red
+Earth: Yellow
+
+**Option 2:**
+Live: Brown
+Neutral: Red
+Earth: Blue
+
+**Option 3:**
+Live: Brown
+Neutral: Blue
+Earth: Yellow
+
+**Option 4:**
+Live: Blue
+Neutral: Brown
+Earth: Green
+
+Based on the correct standard color code for the wires in electrical systems, here are the correct options broken down:
+- **Live wires:** Green, Brown, or Blue (which could vary depending on the country but commonly Green).
+- **Neutral wires:** Red.
+- **Earth wires:** Yellow, Blue, or Green.
+
+Therefore, option (b) with:
+Live Green| NEUTRAL red | EARTH Yellow
+
+However, typically in many areas of the world, earth colors include Blue or Green. Let's make sure we align with the most common options here correctly from given answers. Given the correct configuration,
+Correct Answer: **Live: Brown, Neutral: Red, Earth: Blue**.
+
+Certainly! Below is the complete answer for all the questions in the image:
+
+(xi)
+
+When a conductor carrying current is placed in a magnetic field, perpendicular to it then the direction of the force experienced can be found out using:
+(a) **Lenz’s law**
+(b) **Fleming’s left-hand rule**
+(c) **Fleming’s right-hand rule**
+(d) **Right-hand thumb rule**
+
+The correct answer involves using Lenz's law and Fleming's right-hand rule or the Right-hand thumb rule. Here’s how:
+- **Lenz's Law**: This law states that the direction of a current induced by a changing magnetic field is such that it opposes the change in the magnetic field.
+- For Fleming’s Rule:
+  - **Fleming’s Left-Hand Rule**: Used to determine the direction of induced emf and torque, where fingers indicate the direction of current and motion.
+  - **Fleming’s Right-Hand Rule**: Similar but involves the thumb pointing in the direction of the current, while the fingertips determine the direction of the magnetic field.
+
+(xii)
+
+Choose the correct statement. Latent heat absorbed:
+(a) is independent of the mass of the substance.
+(b) is directly proportional to the increase in temperature of the substance.
+(c) is directly proportional to the specific latent heat of the substance.
+(d) is directly proportional to the specific latent heat of the substance.
+
+The correct statement is:
+(d) is directly proportional to the specific latent heat of the substance.
+
+(xiii)
+
+Which of the following liquids is most suitable for radiators in cars?
+(a) **Liquid P** with specific heat capacity **4000 J kg⁻¹ K⁻¹**
+(b) **Liquid Q** with specific heat capacity **2000 J kg⁻¹ K⁻¹**
+(c) **Liquid R** with specific heat capacity **1500 J kg⁻¹ K⁻¹**
+(d) **Liquid S** with specific heat capacity **2100 J kg⁻¹ K⁻¹**
+
+The most suitable liquid for radiators is one that absorbs maximum heat. Since **Liquid P** has the highest specific heat capacity, **4000 J kg⁻¹ K⁻¹**, it is the most suitable.
+
+(xiv)
+
+While entering from medium A to medium B if light slows down then:
+(a) ***n₂ < n₁***
+(b) ***n₂ = n₁***
+(c) ***n₂ > n₁***
+(d) ***n₂ ≤ n₁***
+
+When light slows down, it transitions into a medium where the refractive index is higher:
+- High refractive indices mean slower light speed. Hence, the medium B will have a higher refractive index than medium A.
+- Hence, **c) *n₂ > n₁*** is the correct statement.
+
+(xv)
+
+The phenomenon of light that causes the diamond to glitter is:
+(a) **Refraction**
+(b) **Total Internal Reflection**
+(c) **Reflection**
+(d) **Absorption**
+
+Diamond's brilliance arises due to phenomena like total internal reflection, which causes light to reflect within and escape from facet edges, giving the diamond its sparkle.
+
+To sum:
+
+- For *xi)*, **Lenz’s law**, **Fleming’s Left-Hand Rule**, or **Fleming’s Right-Hand Rule**.
+- For *xii)*, the correct statement is **d) is directly proportional to the specific latent heat of the substance**.
+- For *xiii)*, **Liquid P** is most suitable for radiators.
+- For *xiv)*, because light slows down, **c) *n₂ > n₁***.
+- For *xv)*, The correct answer is **b) Total internal reflection**.
+
+Here are the answers to the questions in the image:
+
+**Question 2**
+(a) To determine the number of pulleys in a movable block of a block and tackle system with a velocity ratio \( i = 3 \), remember that the velocity ratio \( i \) is \( (n-1) \), where \( n \) is the number of pulleys. We can set up the equation:
+\[ i = n - 1 \]
+Thus,
+\[ i + 1 = n \]
+\[ 3 + 1 = n \]
+\[ n = 4 \]
+Therefore, there are 4 pulleys.
+(b) The position of daughter nucleus in a periodic table compared to the parent nucleus depends on the type of decay they are undergoing. Different types of beta decay (e.g., beta-minus or beta-plus) will lead to different positions in the periodic table.
+(c) Beta radiations will be deflected by the electric field towards the negative plate if they are positive or in the opposite direction for negative beta particles depending on their charge.
+
+**Question 3**
+(a) The force that produces maximum moment about a point is referred to as the turning effect or torque.
+(b) To calculate the moment in SI units (Newton Meters or N·m):
+- Take the force and multiply by the distance from the point to its line of action.
+- \( \text{Moment} = \text{Force} \times \text{Distance} \)
+For example, using the given forces:
+\[ \text{Distance for 12 N force} = 12 \, \text{cm} = 0.12 \, \text{m} \]
+\[ \text{Moment due to 12 N} = 12 \, \text{N} \times 0.12 \, \text{m} = 1.44 \, \text{N·m} \]
+
+**Question 4**
+(i) **Two factors that affect the center of gravity of the body:**
+1. Distribution of mass: Whether mass is dispersed evenly or concentrated in any region.
+2. Shape and symmetry of the object: The shape affects how mass is distributed.
+
+(ii) To calculate the moment of \( F \) about \( A \) given \( F = 20 \, \text{N} \) and \( OA = 6 \, \text{Nm} \):
+1. First, we find the displacement (distance) from point \( A \) and use the perpendicular distance formula.
+2. Moment \( F \) about \( A \):
+\[ \text{Moment} = 20 \, \text{N} \times \text{distance} \]
+3. \[ \text{distance} = \sqrt{(OC)^2 - (OA)^2} = \sqrt{3^2 - 2^2} = \sqrt{9 - 4} = \sqrt{5} \approx 2.24 \, \text{m} \]
+
+Thus:
+\[ \text{Moment} = 20 \, \text{N} \times 2.24 \, \text{m} \approx 44.8 \, \text{N·m} \]
+
+**Question 5**
+(v) If the kinetic energy (\( KE \)) of a moving body is 40 J, then the new kinetic energy when its velocity is doubled will be:
+\[ \text{Original KE} = \frac{1}{2} m v^2 \]
+\[ \text{When velocity is doubled} = \frac{1}{2} m (2v)^2 = \frac{1}{2} m 4v^2 = 4 \times \frac{1}{2} m v^2 = 4 \times 40 \, \text{J} = 160 \, \text{J} \]
+Thus, the new kinetic energy is 160 J.
+
+(vi) A free-suspended pendulum in air is disturbed and left to oscillate on its own:
+(a) The type of vibrations is **simple harmonic motion**.
+(b) One way to decrease the frequency of this vibration is to lengthen the pendulum. Simple harmonic motion frequency \( f \) is given by \( f = \frac{1}{2\pi} \sqrt{\frac{g}{L}} \), where \( L \) is the length.
+
+Thus, increasing the length \( L \) decreases the frequency \( f \) of the simple harmonic motion.
+
+Sure, I'll provide answers for all the questions in the image.
+
+---
+
+**Question (iii) and (iv)**: I'll provide answers to (a)-(d) for these two sections given the extended space limitations:
+
+(viii) 
+**Question**: Given graph depicting the graphical relation between angle of deviation and angle of incidence.
+
+*Answer*: The graph illustrates the relationship between the angle of deviation (δ) and the angle of incidence (i). As the angle of incidence increases, the angle of deviation typically increases. Notably, the graph shows a nonlinear relationship where the deviation changes abruptly, suggesting total internal reflection or a change in refractive index with varying incidence angles.
+
+(ix)
+**Question**: What is the maximum angle of incidence for which the light can undergo total internal reflection at a prism of angle 62°?
+
+*Answer*: For total internal reflection (TIR) to occur, the angle of incidence must be slightly smaller than the critical angle θ_{c} which is given by:
+\[
+\sin(\theta_{c}) = \frac{1}{n}
+\]
+where \( n \) is the refractive index of the material. For light passing from a less dense medium to denser medium via a prism, refractive angles might be different. For air to glass \( n = 1.33 \):
+
+\[
+\sin(\theta_{c}) = \frac{1}{1.33} \approx 0.755
+\]
+
+Calculating the angle of critical incidence:
+
+\[
+\theta_{c} = \sin^{-1}(0.755) \approx 49.73^\circ
+\]
+
+So, the total internal reflection can occur maximum at \(\approx 49.73^\circ\).
+
+---
+
+Other questions were covered previously; the answers are as follows:
+
+**Question (v):**
+(iv) \((v)\) **Background Radiations** 
+\[**2\] \]
+
+**Question (v):**
+(iv) \((v)\) **Background Radiations** 
+\[**2\] \]
+
+---
+
+The remaining answers for (iii) and (iv):
+
+**(3)**
+
+Consider the factors affecting the resistance of copper conductors:
+
+1. **Resistance of the Wires:**
+    - The resistance of a conductor is given by \(R = \rho \frac{L}{A}\).
+    - Given that Copper Length (L) is constant, the resistance depends on **resistivity (ρ)** and cross-sectional area (A).
+2. **Resistivity (ρ):**
+    - The resistivity of copper is a physical property intrinsic to the material itself.
+
+When radius R_{A} = 2R_{B}, the cross-sectional area (A) decreases inversely with the square of the radius, thus:
+    \[
+    A_A = \frac{\pi (2R_B)^2}{4} = 2 \pi R_B^2 
+    \]
+    \[
+    A_B = \pi R_B^2
+    \]
+
+Comparing the areas:
+    \[
+    \frac{A_A}{A_B} = 2 \approx \frac{1}{2}
+    \]
+
+Resistance proportional to:
+    \[
+    A_A = 2, A_B = 1 
+    \]
+
+So, wire B has greater resistance given by:
+
+(5)
+
+**Question (v):**
+(2) **Resistance of the Wires:**
+
+**(6)**
+
+Resistance is directly proportional to length (L) where L is common,
+\(R = \rho' \frac{L}{A}\)
+
+\[
+A_A = A_B = \pi R_B^2 
+\]
+
+With similar length and material properties:
+   \[
+  R_A = 2R_B
+  \]
+
+**(7)**
+
+The following are factors that affect the strength of an electromagnet:
+- **Current (I):**
+    - Higher current increases the magnetic field strength. 
+- **Number of turns (n):**
+    - An increase in the number of turns significantly enhances the magnetic field intensity proportional to n. 
+
+**(4)**
+
+Calculating the heat absorbed by 200g of ice melting to water from 0°C to 60°C:
+    \[
+    Q = m \Delta T * \text{specific heat}
+    \]
+
+\[
+    \text{Melting ice phase change} m_w (4020\ J/kg^\circ C \times (55.56 g \times \frac{2200 J}{1000 g} \rightarrow 
+    400J/g)(200g = 400 J/g)(55.56g \rightarrow 400J)
+    \]
+
+- First phase: melting at 0, 60°C 
+    \[
+        \left(0 -55.56g \frac{2200 J}{1000g
+
+Certainly, let's solve each of the problems systematically.
+
+### Problem [3]
+
+#### Part (a):
+If you want to minimize the deviation angle for a prism, the refracting angle of incidence (denoted by \( i \)) and the angle of deviation is related by Snell's law. For a right-angle prism, the angle of deviation is the same as the angle of incidence.
+
+\[ \text{Deviation} = 2 \times \text{Angle of Incidence} \]
+
+The minimum deviation occurs when the refracting angle of incidence (\( i \)) is 30°, as given in the figure. The corresponding angle of incidence is \( i \).
+
+#### Part (b):
+- **Angle at which deviation is zero**: \( n_1 \sin i = n_2 \sin r \)
+- Assume air \( (n_1 = 1) \), and a prism material, (say \( \gamma \)-quartz \( n_2 = 1.455 \)).
+- We get:
+  \[
+  1 \times \sin i = 1.455 \times \sin r 
+  \]
+  Using \( i = 30° \):
+  \[
+  1 \times \sin(30°) = 1.455 \times \sin r 
+  \]
+  \[
+  0.5 = 1.455 \times \sin r 
+  \]
+  \[
+  \sin r = \frac{0.5}{1.455} 
+  \]
+  \[
+  \sin r \approx 0.3421 
+  \]
+  \[
+  r \approx \arcsin(0.3421) 
+  \]
+  \[
+  r \approx 19.47°
+  \]
+
+#### Part (ii):
+You want to re-translate the ray \( AB \) till it emerges out of the prism at a 42° angle. The new deviation angle will be zero, implying the index of refraction (\( n_1 \)) will be:
+- Since \[ 
+  n_1 \times \sin(42°) = n_2 \times \sin(30°) 
+\]
+  \[
+  n_1 \times 0.669 = 1.455 \times 0.5 
+  \]
+  \[
+  n_1 \times 0.669 = 0.7275 
+  \]
+  \[
+  n_1 = \frac{0.7275}{0.669} 
+  \]
+  \[
+  n_1 \approx 1.083
+  \]
+
+### Problem [4]
+
+The concept of the glass block creates an effect due to its index of refraction in comparison to air. Let's review what each part of the question entails.
+
+#### Part (a):
+**Phenomenon:**
+- The image formation due to refraction at different positions is called a **pinhole effect**.
+  - If the prism itself has a small aperture, you get a unique image as it creates small openings through which light travels.
+  
+#### Part (b):
+**Effects of changing Y:**
+1. \( Y \) increases:
+   - If \( Y \) (thickness/density of the glass block) increases, it leads to a higher refractive index. This results in an increased deviation of light paths, causing an image to shift or become magnified more.
+2. \( Y \) decreases:
+   - If \( Y \) decreases, a lower refractive index will be seen in the glass block. This causes less deviation, resulting in a clearer and more precise view of the original image, with lesser distortion or magnification.
+
+Certainly! Below is the detailed answer to all the questions presented in the image.
+
+---
+
+**Question 5**
+
+**(i)**
+
+**An object of height 20 cm is placed in front of a lens at a distance of 50 cm. Its virtual, diminished image is formed at a distance of 15 cm.**
+
+**(a)** Identify the type of the lens.
+
+- The lens forms a virtual, diminished image. This describes a concave lens, where the image is formed on the same side as the object and appears smaller.
+
+**(b)** Calculate the focal length of the lens.
+
+- For a concave lens, the focal length \( f \) can be determined using the lens formula: 
+  \[ \frac{1}{f} = \frac{1}{o} + \frac{1}{i} \]
+  where \( o \) is the object distance and \( i \) is the image distance. Plugging in the given values:
+  \[ o = 50 \, \text{cm} \]
+  \[ i = 15 \, \text{cm} \]
+  \[ \frac{1}{f} = \frac{1}{50} + \frac{1}{15} \]
+  \[ \frac{1}{f} = \frac{1}{50} + \frac{1}{15} = \frac{3}{150} + \frac{10}{150} = \frac{13}{150} \]
+  \[ f = \frac{150}{13} = 11.54 \, \text{cm} \]
+
+**(ii)** The diagram below shows the extreme colors of a visible spectrum (X and Y).
+
+**(a)** Identify the colours X and Y.
+
+- The diagram has a green arrow pointing between X and Y.
+  - X: appears to be towards the red end of the spectrum.
+  - Y: appears to be towards the violet end of the spectrum.
+
+**(b)** Which colour has greater speed in vacuum?
+
+- Of the visible spectrum, red light (X) has a slower speed compared to violet light (Y), as violet light travels faster than red light in vacuum.
+
+**(iii)** The diagram below shows an object \( AB \) kept in front of the lens. The path of one ray coming from the object is shown.
+
+**(a)** Name the lens L.
+
+- The lens is a diverging lens as it is shown diverging the light rays, which is characteristic of a concave lens.
+
+**(b)** Redraw and complete the ray diagram showing the formation of the image.
+
+- Given:
+  - \( \text{Object distance} \, (o) = -50 \) (since lens L is concave; image is virtual and upright)
+  - \( \text{Image distance} \, (i) = +11.54 \, \text{cm} \)
+
+**(c)** In which optical instrument is this kind of image formed?
+
+- Converging lenses like this are used to form real and inverted images, while diverging lenses like concave lenses are used to form virtual and erect images.
+
+---
+
+**Question 6**
+
+**(i)** The diagram below shows a block and tackle system:
+
+**(a)** Copy and redraw the labelled diagram showing the correct connection of the tackle, direction of the forces involved to obtain the maximum V.R. and convenient direction.
+
+- **Redrawing the block and tackle system diagram involves understanding that each loop of the tackle splits the force applied into halves and doubles the number of ropes needed to lift the weight.**
+- The optimal setup for lifting efficiency in a block and tackle system involves using the simplest configuration that maximizes force leverage and minimizes effort.
+
+--- 
+
+By following these detailed steps, you can now accurately describe and respond to each question.
+
+Sure! Let's go through each of the questions one by one.
+
+**Question (b):**
+
+**Calculate the M.A. of this pulley system if its efficiency is 80%.**
+
+1. Efficiency (\(\eta\)) = Output power (\(P_{output}\)) / Input power (\(P_{input}\)).
+2. Since efficiency = 80%, we have \(\eta = 0.8\).
+
+So, the given efficiency indicates the output power is 80% of input power.
+
+**Question (6):**
+
+**(iii) A coconut of mass 450 g falls from the top of an 80 m high tree.**
+ 
+(a) **Calculate the potential energy possessed by the coconut when it is at the top of the tree.**
+
+Potential energy (\(E_p\)) = Mass (\(m\)) × Gravitational acceleration (\(g\)) × Height (\(h\))
+
+\[
+E_p = 0.45 \, \text{kg} \times 9.8 \, \text{m/s}^2 \times 80 \, \text{m}
+\]
+
+\[
+E_p = 0.45 \times 9.8 \times 80 = 3552 \, \text{J}
+\]
+
+(b) **State the kinetic energy with which it strikes the ground without calculation, and state the principle involved to arrive at the answer in (i). \(g = 10 \, \text{m/s}^2\)**
+ 
+When the coconut falls from the tree, all its potential energy is converted into kinetic energy. The principle involved is the conservation of energy.
+
+**(i):**
+
+**A person standing in front of a cliff fires a gun and hears its echo after 3s. If the speed of sound in air is 336 ms\(^{-1}\).**
+
+(a) **Calculate the distance of the person from the cliff.**
+
+1. Total time = Time taken by sound to reach cliff (\(t_1\)) + Time taken for echo to return (\(t_2\))
+
+\[
+t_1 + t_2 = 3 \, \text{s}
+\]
+
+2. Speed = Distance / Time
+
+For the sound to reach the cliff:
+
+\[
+t_1 = \frac{\text{Distance}}{336 \, \text{m/s}}
+\]
+
+For the echo to return:
+
+\[
+t_2 = \frac{\text{Distance}}{336 \, \text{m/s}}
+\]
+
+Since \(t_1 + t_2 = 3 \, \text{s}\):
+
+\[
+2 \times \frac{\text{Distance}}{336 \, \text{m/s}} = 3 \, \text{s}
+\]
+
+\[
+\frac{\text{Distance}}{336 \, \text{m/s}} = \frac{3}{2} \, \text{s}
+\]
+
+\[
+\text{Distance} = \frac{3}{2} \times 336 \, \text{m} = 504 \, \text{m}
+\]
+
+(b) **After moving a certain distance from the cliff he fires the gun again and this time the echo is heard 1.5 s later than the first. Calculate distance moved by the person.**
+
+**Since the total distance from the cliff to here is 504 meters, we need to calculate the distance moved by the person.**
+
+The equation for \(t_1\) will be:
+
+\[
+t_1 = \frac{\text{Distance}}{336 \, \text{m/s}}
+\]
+
+Let \(x\) be the additional distance moved.
+
+\[
+t_2 = \frac{(504 + x)}{336}
+\]
+
+\[
+t_2 = \frac{504}{336} + x = 1.5
+\]
+
+Subtracting:
+
+\[
+\frac{504}{336} = 1.5 - x
+\]
+
+\[
+x \approx 504 \ - 504 = 0
+\]
+
+Hence no additional distance was moved:
+**\(x = 0\) meters**
+
+So by analyzing each part through the appropriate equations and principles, we derived the solutions as follows:
+
+**(b):** M.A of the pulley system = given efficiency of \(80\%\).
+
+**(6):**
+(a) Potential energy at the top = 3552 J.
+(b) Kinetic energy, Conservation of energy principle.
+
+**(7):** 
+(a) Distance from cliff = 504 m.
+(b) No additional distance = 504 m.
+
+Sure, let's tackle each question one by one.
+
+### Question 3
+
+**(i)**
+- Alpha decay: In this process, an elementary particle called an alpha particle (alpha ray) is emitted from a nucleus. An alpha particle consists of 2 protons and 2 neutrons.
+- Beta decay: In this process, a nucleus emits a beta particle. A beta particle is essentially an electron or a positron, depending on the type of beta decay.
+
+**General names:**
+- X is Th (Thorium)
+- Y is Pa (Protactinium)
+
+**(ii)**
+- Given: \( \text{Atomic number of Y} = 80 \)
+- Atomic number of \( X \) is the atomic number of Y minus the number of protons lost in the beta decay.
+- \( 80 - 2 = 78 \)
+- So, the atomic number of X is 78.
+
+**(iii)**
+- Atomic mass number \( Z \) for \( Y \) is given as 189.
+- For \( X \), it would be the atomic mass number of \( Y \) minus the neutrons lost in the alpha particles.
+- \( 189 - 4 = 185 \)
+- The atomic mass number of X is 185.
+
+### Question 4
+
+**(i) (a)**
+- Units of power (Watts) are specified as Volts \(V\) and Ampere \( A \) (W in terms of V and A).
+- \( "60W \) means 60 Watt, 220V."
+- Power \( P \) is defined as the product of voltage and current: \( P = VI \).
+- 60W \( \Rightarrow \) 60 \( V \times I \).
+- From the power law, \( P \) in \( VI \), to find \( V \) if we know \( P \) and \( I \), \( I \) should be 60W / 220V \( \Rightarrow \) \( 0.27A \).
+
+**(b)**
+- Different wires carry different electrical features like high resistance, inductive, capacitive, etc.
+- Current path and load resistance.
+
+**(c)**
+- Main switch: On or off the circuit. It controls the flow of the circuit. 
+
+**(ii) (a)**
+- This depicts nuclear fission: Uranium-235 is an isotope that undergoes fission when it captures a neutron. The neutron initiates the reaction, splitting the \( \text{Uranium-235 nucleus} \) into two roughly equal parts plus a few neutrons and three neutron particles (recoil). 
+
+Reaction: \( \text{} _{92} ^{235} \text{U} + \text{ }_0 1 \text{n} \rightarrow 2 \text{ } _{\phantom{2}0}^{\phantom{2}1} \text{n} + 2 \text{ }_2^{\phantom{2}4} \text{He} \) + energy (heat and radiations).
+
+**(b)**
+- Effected on the radiation: 
+- High intensity neutrons are radiated
+- Heat is generated due to fission
+
+**(iii)**
+- Analyzing the circuit: 
+  - Total resistances are considered: 
+    - \( 2\Omega, 5\Omega, 3\Omega, 4\Omega \)
+
+  Therefore: \( \text{Total Resistance} \,(R_{total}) \,=\, \frac{2*5*3*4}{2+5+3+4} \)
+            =  7.8\Omega\
+
+  - Voltage source = 4V, Current (I) by Ohm's law:
+    \[ I = \frac{V}{R_{total}} \]
+    = \(\frac{4V}{7.8\Omega}\approx 0.51A\)
+
+  - Current in \(3\Omega \) (denoted as I3): Ohm’s law for 3\Omega\ circuit:
+    \[
+    I_{3} = \frac{V}{R_{3}}
+    \]
+    = \( \frac{4V}{3\Omega} = 1.33A \)
+
+
+These answers should cover all questions provided in the image with accurate scientific explanations!
+
+Let's examine and answer each part of the question.
+
+### Question 9 
+(i) 
+A metal piece present at 120°C is quickly dropped in a calorimeter of mass 80 g containing 200 g of water at 30°C. The final temperature attained by the mixture is 40°C. Calculate the thermal capacity of the metal piece. [Specific heat capacity of water = 4.2 J g⁻¹°C⁻¹, Specific heat capacity of calorimeter = 0.4 J g⁻¹°C⁻¹]
+- **Step 1:** Determine the total heat lost by the metal piece and water.
+  - **Heat lost by metal piece** = \( m_{metal} \cdot c_{metal} \cdot \Delta T_{metal} \)
+  - Let \( T_{initial, metal} = 120°C \)
+  - \( T_{initial, calorimeter + water} = \frac{c_{water} \cdot m_{water} \cdot T_{water} + m_{calorimeter} \cdot T_{calorimeter}}{m_{water} + m_{calorimeter}} = \frac{4.2 \cdot 200 + 0.4 \cdot 80}{200 + 80} \cdot 30 = 33.2°C \)
+  - \( T_{final} = 40°C \)
+  - Let \( Q_{lost, metal} = Q_{gained, calorimeter + water} \)
+  - \( m_{total} = m_{metal} + m_{calorimeter} + m_{water} \)
+
+- **Step 2:** Calculate the total heat change for the mixture.
+  - Heat gained by the water and calorimeter:
+    \[
+    Q = m_{total} \cdot c_{average} \cdot \Delta T
+    \]
+    where \( \Delta T = 40°C - 33.2°C = 6.8°C \)
+  - Let \( c_{average} \approx \frac{4.2 + 0.4}{2} = 2.3 \, \text{J g}^{-1}°C^{-1} \)
+
+  \[
+  Q = 360 \cdot 2.3 = 828 J
+  \]
+
+- **Step 3:** Use the heat balance for the metal piece:
+  \[
+  Q_{lost, metal} = m_{metal} \cdot c_{metal} \cdot \Delta T_{metal}
+  \]
+
+  Plugging \( Q_{lost, metal} = 828 J \) and \( m_{metal} = 80 \, g \):
+  \[ 
+  828 = 80 \cdot c_{metal} \cdot (120 - 40)
+  \]
+  \[
+  828 = 80 \cdot c_{metal} \cdot 80
+  \]
+  \[
+  c_{metal} = \frac{828}{80 \cdot 80} = 0.1 \, \text{J g}^{-1}°C^{-1}
+  \]
+    Thus, \( m_{metal} \cdot Q_{lost, metal} \) provides required info.
+
+(ii) 
+(a) Condensation occurs at the boiling point, and solidification or melting happens at the freezing point. 
+  \[
+  Condensation point = 100°C, \quad Solidification (freezing point) = 0°C
+  \]
+
+(b) The temperature range where the substance is in liquid state:
+  \[
+  Condensation ~ 100°C - Solidification ~ 0°C
+  \]
+
+(iii) How do we prefer ice to ice-cold water for cooling a drink?
+- The heat transfer from the drink to the cooling substance increases when converting solid ice into liquid water (latent heat of fusion), allowing it to absorb more heat.
+
+(iv) The diagram below shows a magnet placed between two coils \( A \) and \( B \). The magnet is moved along the axis toward coil $ B $.
+
+  (a) State the polarities induced at the ends \( Q \) and \( R \) of the coil due to the motion of the magnet.
+  - \( N \) side of the magnet induces opposite poles at \( Q \) and \( R \), so \( Q \) and \( R \) would have opposite polarities if they align (north and south).
+
+  (b) Name the phenomenon due to which the current is induced in the coils.
+  - **Faraday's Law of Electromagnetic Induction.**
+
+  (c) Name the law which helps to find the polarities at the ends \( Q \) and \( R \).
+  - **Len
+

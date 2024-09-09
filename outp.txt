@@ -35,9 +35,9 @@ Here are the answers to all the questions presented in the image:
 ### Question (i)
 **Which of the following is the correct expression for gain in kinetic energy if initial velocity is not zero?**
 
-(a) \( k = \frac{1}{2}m v^2 \)
+(d) \( k = \frac{1}{2}m v^2 - u^2\)
 
-Correct Answer: **(a)**
+Correct Answer: **(d)**
 
 ### Question (ii)
 **The energy conversion, when an oscillating pendulum moves from mean to extreme position is:**
